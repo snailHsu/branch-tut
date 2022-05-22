@@ -1,2 +1,2 @@
 "# branch-tut" 
-update 2
+update from B on new-feature2 branch
